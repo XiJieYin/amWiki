@@ -1,0 +1,2 @@
+# amWiki
+amWiki test!
